@@ -6,13 +6,13 @@
 ### - HTML, CSS e JS
 
 ### Aonde está sendo usado o JS?
-### - O JS está na animação de inclinação do card, por sinal essa animação é feita inteiramente com um script do JS, a sua disponibilidade e em conjunto, os créditos dos criadores, logo a baixo
+### - O JS está na animação de inclinação do card, por sinal essa animação é feita inteiramente com um script do JS, a sua disponibilidade e em conjunto, os créditos dos criadores, logo a baixo.
 
 ### Quanto Tempo Levou Para Concluir o Projeto?
 ### - 3 horas.
 
 ### Imagens:
-###- Todas as imagens foram usadas e utilizadas das disponíveis pelo Google Images.
+### - Todas as imagens foram usadas e utilizadas das disponíveis pelo Google Images.
 
 ### Qual critério Criativo usou para definir as Cores?
 ### - Mais feminino, cores mais exóticas, mudando as cores usadas comumentes nos projetos anteriores, dando um tom mais agradável.
