@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Card de Perfil com CSS e JavaScript </title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="card">
+            <div class="imageContent">
+                <img src="./image/photoProfile01.jpeg" alt="">
+            </div>
+            <div class="textContent">
+                <h2> Name: Fernando Age: 17 </h2>
+                <h2> Profession: Web Front End Developer </h2>
+            </div>
+            <div class="socialMedia">
+                <a href="#"> <img src="./image/Linkedin_Icon.png" alt=""> </a>
+                <a href="https://github.com/fernandoKuwahara"> <img src="./image/Github_Icon.png" alt=""> </a>
+                <a href="#"> <img src="./image/Instagram_Icon.png" alt=""> </a>
+            </div>
+        </div>
+    </div>
+
+    <script type="text/javascript" src="vanilla-tilt.js"></script>
+
+    <script>
+        VanillaTilt.init(document.querySelectorAll(".card"), {
+		    max: 25,
+		    speed: 400,
+            glare: true,
+            "max-glare": 0.5
+	    });
+    </script>
+
+</body>
+</html>
