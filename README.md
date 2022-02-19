@@ -3,7 +3,7 @@
 ### Esse é um Projeto que eu estava fazendo como treinamento e estudo para Front-End, a parte de idéia, como idealizei esse Projeto e seus efeitos, foram referências do vídeo que está logo abaixo, o objetivo principal por fazer esse Projeto é inteiramente para estudo, e demonstração de habilidades, espero que tenha gostado desse Projeto, se curtiu? Manda um Direct!😁✌️
 
 ### Qual Tecnologia foi Usada?
-### - HTML, CSS e JS
+### - HTML, CSS e JS.
 
 ### Aonde está sendo usado o JS?
 ### - O JS está na animação de inclinação do card, por sinal essa animação é feita inteiramente com um script do JS, a sua disponibilidade e em conjunto, os créditos dos criadores, logo a baixo.
